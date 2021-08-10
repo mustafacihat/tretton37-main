@@ -1,0 +1,30 @@
+.area {
+  max-width: 1600px;
+  position: center;
+  padding: 1%;
+  margin: 0 auto;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 1px #cacaca;
+  -webkit-box-shadow: 0px 0px 10px 1px #cacaca;
+  -moz-box-shadow: 0px 0px 10px 1px #cacaca;
+  background: -webkit-linear-gradient(#126d2d, rgb(218, 225, 230));
+    -webkit-background-clip: border-box;
+}
+.filter-by-name-card{
+  margin: 1%;
+  padding: 2%;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 1px #cacaca;
+  -webkit-box-shadow: 0px 0px 10px 1px #cacaca;
+  -moz-box-shadow: 0px 0px 10px 1px #cacaca;
+}
+.grid-filter {
+  width: 100%;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 40% 40%;
+  justify-content: space-evenly;
+  column-gap: 1rem;
+}
+

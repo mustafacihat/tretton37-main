@@ -1,0 +1,4 @@
+{
+  "header": "Authorization: api-key 14:2021-07-13:petra.lichtenecker@tretton37.com eb67f6c323efe30b873000fedfb80c2592ae69c5bb88552884919a762efafa18",
+  "exampleCurl": "curl --location -v 'http://api-dev.1337co.de/v3/statistics' --header 'Authorization: api-key 14:2021-07-13:petra.lichtenecker@tretton37.com eb67f6c323efe30b873000fedfb80c2592ae69c5bb88552884919a762efafa18'"
+}
